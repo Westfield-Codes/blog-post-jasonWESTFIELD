@@ -25,3 +25,6 @@ table,tr,th,td {
 	border:1px solid black;
 	text-align:center;
 }
+.reply {
+  padding-left:50px;
+}
