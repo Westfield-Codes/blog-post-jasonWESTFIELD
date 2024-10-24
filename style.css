@@ -28,3 +28,6 @@ table,tr,th,td {
 .reply {
   padding-left:50px;
 }
+body {
+  background-color:deeppink;
+}
