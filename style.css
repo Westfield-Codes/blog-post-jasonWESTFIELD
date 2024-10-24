@@ -21,13 +21,22 @@ html {
   padding-top:1em;
   color:firebrick;
 }
+
 table,tr,th,td {
 	border:1px solid black;
 	text-align:center;
 }
+
+#wb {
+  background-color:white;
+}
+
+body {
+  background-color:deeppink!important;
+}
+
+
+
 .reply {
   padding-left:50px;
-}
-body {
-  background-color:deeppink;
 }
