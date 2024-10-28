@@ -25,6 +25,7 @@ html {
 table,tr,th,td {
 	border:1px solid black;
 	text-align:center;
+  padding:20px;
 }
 
 #wb {
@@ -39,4 +40,13 @@ body {
 
 .reply {
   padding-left:50px;
+}
+
+.dog  {
+  Font-size:18pt;
+}
+.no-pad {
+  padding:0;
+  
+  max-height:350;
 }
